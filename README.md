@@ -1,2 +1,30 @@
-# Energy-demand-Forecasting-ML
-Energy demand forecasting using ARIMA, SARIMA, Random Forest, XGBoost, and LightGBM. Built an end-to-end ML pipeline with feature engineering, time-series analysis, model comparison, and evaluation using RMSE, MAE, and MAPE on hourly electricity consumption data.
+# Energy Demand Forecasting using Machine Learning
+
+## Overview
+
+This project predicts hourly electricity demand using statistical and machine learning models.
+
+### Models Used
+
+* ARIMA
+* SARIMA
+* Random Forest
+* XGBoost
+* LightGBM
+
+### Evaluation Metrics
+
+* RMSE
+* MAE
+* MAPE
+
+### Key Features
+
+* Lag Features
+* Rolling Statistics
+* Calendar Features
+* Time-Series Forecasting
+
+### Results
+
+Machine learning models outperformed traditional statistical forecasting approaches, with XGBoost achieving the best overall performance.
