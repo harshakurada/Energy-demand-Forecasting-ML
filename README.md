@@ -1,4 +1,4 @@
-# Energy Demand Forecasting using Machine Learning
+Intelligent Energy Demand Forecasting with ARIMA, SARIMA, XGBoost, and LightGBM
 
 ## Overview
 
